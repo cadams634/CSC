@@ -1,0 +1,18 @@
+Area of Rectangle 1: 5
+Area of Circle 2:    50.24
+Area of Rectangle 3: 168
+Area of Circle 4:    379.94
+Area of Rectangle 5: 448
+Area of Circle 6:    1661.06
+Area of Rectangle 7: 198
+Area of Circle 8:    530.66
+
+Perimeter of Rectangle 1: 12
+Perimeter of Circle 2:    25.12
+Perimeter of Rectangle 3: 52
+Perimeter of Circle 4:    69.08
+Perimeter of Rectangle 5: 128
+Perimeter of Circle 6:    144.44
+Perimeter of Rectangle 7: 62
+Perimeter of Circle 8:    81.64
+

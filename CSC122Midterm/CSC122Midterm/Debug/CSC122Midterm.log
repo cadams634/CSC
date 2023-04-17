@@ -1,0 +1,5 @@
+﻿  EndUser.cpp
+C:\Users\cadams634\source\repos\CSC122Midterm\CSC122Midterm\EndUser.cpp(63,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cadams634\source\repos\CSC122Midterm\CSC122Midterm\EndUser.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cadams634\source\repos\CSC122Midterm\CSC122Midterm\EndUser.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+  CSC122Midterm.vcxproj -> C:\Users\cadams634\source\repos\CSC122Midterm\Debug\CSC122Midterm.exe
