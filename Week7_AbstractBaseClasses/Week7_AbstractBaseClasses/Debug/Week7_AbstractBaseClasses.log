@@ -1,0 +1,4 @@
+﻿  pr15-06.cpp
+C:\Users\cadams634\source\repos\Week7_AbstractBaseClasses\Week7_AbstractBaseClasses\pr15-06.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cadams634\source\repos\Week7_AbstractBaseClasses\Week7_AbstractBaseClasses\pr15-06.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+  Week7_AbstractBaseClasses.vcxproj -> C:\Users\cadams634\source\repos\Week7_AbstractBaseClasses\Debug\Week7_AbstractBaseClasses.exe
