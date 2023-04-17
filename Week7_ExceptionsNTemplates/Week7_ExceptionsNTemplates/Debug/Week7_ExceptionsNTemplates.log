@@ -1,0 +1,4 @@
+﻿  pr16-02.cpp
+C:\Users\cadams634\source\repos\Week7_ExceptionsNTemplates\Week7_ExceptionsNTemplates\pr16-02.cpp(22,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\cadams634\source\repos\Week7_ExceptionsNTemplates\Week7_ExceptionsNTemplates\IntRange.h(58): warning C4715: 'IntRange::divide': not all control paths return a value
+  Week7_ExceptionsNTemplates.vcxproj -> C:\Users\cadams634\source\repos\Week7_ExceptionsNTemplates\Debug\Week7_ExceptionsNTemplates.exe
