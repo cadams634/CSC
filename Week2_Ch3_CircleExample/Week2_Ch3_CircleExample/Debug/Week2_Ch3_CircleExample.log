@@ -1,0 +1,7 @@
+﻿  EndUser.cpp
+C:\Users\cadams634\source\repos\Week2_Ch3_CircleExample\Week2_Ch3_CircleExample\EndUser.cpp(10,9): warning C4101: 'perimeter': unreferenced local variable
+C:\Users\cadams634\source\repos\Week2_Ch3_CircleExample\Week2_Ch3_CircleExample\EndUser.cpp(9,9): warning C4101: 'area': unreferenced local variable
+  MyCircle.cpp
+C:\Users\cadams634\source\repos\Week2_Ch3_CircleExample\Week2_Ch3_CircleExample\MyCircle.cpp(18,11): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Generating Code...
+  Week2_Ch3_CircleExample.vcxproj -> C:\Users\cadams634\source\repos\Week2_Ch3_CircleExample\Debug\Week2_Ch3_CircleExample.exe
