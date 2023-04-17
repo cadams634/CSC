@@ -1,0 +1,3 @@
+﻿  pr11-12.cpp
+C:\Users\cadams634\source\repos\Week3_EvenMoreOverOperator(2-1)\Week3_EvenMoreOverOperator(2-1)\name.h(24): warning C4715: 'Name::operator[]': not all control paths return a value
+  Week3_EvenMoreOverOperator(2-1).vcxproj -> C:\Users\cadams634\source\repos\Week3_EvenMoreOverOperator(2-1)\Debug\Week3_EvenMoreOverOperator(2-1).exe

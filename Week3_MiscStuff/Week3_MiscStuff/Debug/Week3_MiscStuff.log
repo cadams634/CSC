@@ -1,0 +1,3 @@
+﻿  EndUser.cpp
+C:\Users\cadams634\source\repos\Week3_MiscStuff\Week3_MiscStuff\EndUser.cpp(11,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Week3_MiscStuff.vcxproj -> C:\Users\cadams634\source\repos\Week3_MiscStuff\Debug\Week3_MiscStuff.exe
